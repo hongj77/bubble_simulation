@@ -1,1 +1,1 @@
-##Code for simulation used in CS 4850 final paper
+##Code for simulation used in Asymmetric Information in Economic Bubbles
